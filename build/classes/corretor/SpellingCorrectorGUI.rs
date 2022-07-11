@@ -1,0 +1,5 @@
+SpellingCorrectorGUI$2
+SpellingCorrectorGUI$3
+SpellingCorrectorGUI$1
+SpellingCorrectorGUI
+SpellingCorrectorGUI$4
